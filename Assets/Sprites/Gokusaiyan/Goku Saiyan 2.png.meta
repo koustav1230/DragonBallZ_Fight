@@ -1,0 +1,1532 @@
+fileFormatVersion: 2
+guid: ced4bf3bc009d81409d883280785924e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goku Saiyan 2_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1035
+        width: 118
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa9aae7f7fef4b4e8e930ed0bd48965
+      internalID: 586696784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1032
+        width: 84
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e157ea62f672346b9a6bc0f5f163cb
+      internalID: 715912408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1037
+        width: 145
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bb0ab931a2fd74e80eafa088a691b3
+      internalID: 2034723157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1037
+        width: 138
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01380861629fe6348a2da0d5e79bdd6e
+      internalID: 247720352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_4
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1036
+        width: 146
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5045c377ef7eee8438d02ea32f4086f3
+      internalID: -295297406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_5
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1036
+        width: 121
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87de451b2495a7e46b425ad5e74444c6
+      internalID: -918218582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_6
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1035
+        width: 131
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d24382206ce7546bc78b27a71de2b3
+      internalID: 463300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_7
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1035
+        width: 138
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d57fa2593e20d2408317313d8699bea
+      internalID: -870845028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_8
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1035
+        width: 131
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5285801b2351e419f6dfb17b936ea1
+      internalID: -297117663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_9
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1035
+        width: 119
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f3335c68e93b547b94d59a18eb5d07
+      internalID: -892407356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_10
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1036
+        width: 121
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1105c1d9a11448c47a9e0297774d4382
+      internalID: -788098053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_11
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1032
+        width: 84
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f41fcb2447ced6468cd0c87634cbc1f
+      internalID: 1539154836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_12
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1032
+        width: 89
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70aac08a69a9614faa3ea879945ff53
+      internalID: 523448718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_13
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1033
+        width: 77
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404653f906bff5f419dcdc913fa8c259
+      internalID: 1634537122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_14
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 1039
+        width: 129
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3a19545f994794c9b64feae449938f
+      internalID: -276345956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_15
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 1039
+        width: 126
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6874c727fc7304abc9f047ba14a6e7
+      internalID: -947776103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_16
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 1037
+        width: 125
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4959342913c3348aa45fed1159ed5c
+      internalID: 957006956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_17
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 68
+        width: 135
+        height: 1137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f62d17c5627a8d448d2a3f383b1dc8f
+      internalID: -1982585652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 857
+        width: 72
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192ee45b5a2005b4bbe5760f4792a0a8
+      internalID: -193244749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 857
+        width: 102
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d66ae56bcf1aa42b7a9e1f9ffe2fdb
+      internalID: -125798712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_20
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 857
+        width: 72
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3c7136a7c2b2a48a4b9572498b5702
+      internalID: 1558477688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_21
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 857
+        width: 72
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bb45e41c55abf429d5a9dfc660ed8a
+      internalID: -1164331634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_22
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 857
+        width: 71
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f09ab3ffa4c5845ade079f9398f377
+      internalID: -354797879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_23
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 874
+        width: 83
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de8db28dca2cab4499d68852a31a307
+      internalID: -975478107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_24
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 901
+        width: 108
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf30cf46ebef5f47aebf542031ea191
+      internalID: -314704885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_25
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 902
+        width: 107
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1251074d0b4d67a4aaf0ee08e157601b
+      internalID: 353687081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_26
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 895
+        width: 104
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141013e938d779648aa3777cde981a47
+      internalID: -1305285077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_27
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 879
+        width: 101
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b654efd2a25e44fb5a514a02b1f4fb
+      internalID: -1146739467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 714
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fd905986d4c684a8fc9bbc74bf5fe2
+      internalID: -1683643673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 714
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f28cdac5a72114794d111996238e62
+      internalID: -1947216119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 714
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6733fba30fc5f64a856a3da20be1d7f
+      internalID: 1576728121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 716
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1d3596431e1ae40822841adbca6dd6
+      internalID: -1389746429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_32
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 716
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6056f1e2a0f1cc44785ac84536347ae0
+      internalID: -339547980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_33
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 714
+        width: 117
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d7a4bb53ff12a469564ca1c098a6e6
+      internalID: -965180227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_34
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 714
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8872aa23fc0ec149a8c93f6de3d83c2
+      internalID: -977516055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 714
+        width: 129
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ea893ca4d57c54fa5382b501103e81
+      internalID: 1515677087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_36
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 714
+        width: 115
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d9042e88ca76641928d59aa7008b11
+      internalID: -1405110971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 592
+        width: 241
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378b3567da009954f8531ea518e8de9e
+      internalID: 1108033560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 607
+        width: 93
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea0440955592b44582e45f4875ff0b6
+      internalID: -603502506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_39
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 639
+        width: 100
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c84a7c12fe4f5944a7fd4b3f75931e8
+      internalID: -1557240023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 462
+        width: 114
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c19a609b395a948b82871c108b78c5
+      internalID: -1286201171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_41
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 461
+        width: 92
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a76138c5f17327498e2497abeb0d1c6
+      internalID: -1777102526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_42
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 488
+        width: 103
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223e92b351b0e074991996f99e6d5a92
+      internalID: -757313701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_43
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 493
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2306565795f56f47a02fe13081bc5ec
+      internalID: 749121182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 347
+        width: 155
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6292d9e5dc1ba88448172d1d2869184f
+      internalID: -25026075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_45
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 350
+        width: 115
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef6e597b5c4d7a48b3e198c5933d88d
+      internalID: -855591520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_46
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 337
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2782c695ce3da0f4ab258420070208ec
+      internalID: 1703239988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_47
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 344
+        width: 143
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb05110b15859a408c963d840bac1a4
+      internalID: -1162802990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_48
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 337
+        width: 87
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bcf458787352045b6b2b705503e768
+      internalID: -657087297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_49
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 347
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def59ab96d8a2e1409758e795d50126d
+      internalID: 737832370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_50
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 0
+        width: 604
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6853575dfac625047a5433b3106f20ad
+      internalID: 1274794563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 65
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2653b88b839862c45a2aaff04a25350e
+      internalID: -76762793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 169
+        width: 62
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9484412b260a7d43bd46e1e8df27246
+      internalID: 256237495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_53
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 169
+        width: 61
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecf89c3751713643b811ee22c75e3a7
+      internalID: -1134327615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_54
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 169
+        width: 63
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8615f498b26224047a65fcfed714413e
+      internalID: 422366685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_55
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 169
+        width: 60
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833eeaff83f456e4c9fa6bf8525169f8
+      internalID: -537887255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_56
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 169
+        width: 61
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a30c60a1ca5ae44ba5424a792dcd607
+      internalID: 769683201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_57
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 169
+        width: 61
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce9ad9f134049a489e1d12b66ee9547
+      internalID: -639433310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 73
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff138f12db5c4945977b26b73e92e85
+      internalID: -554704401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_59
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2
+        width: 64
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a64ad9c79d6944282a387f5f137510
+      internalID: 642412837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_60
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2
+        width: 68
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e933875312e88449b4526abdcb2c34
+      internalID: -1887454031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_61
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2
+        width: 69
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d3c7d40b0fec949af113975be4fbdd
+      internalID: 1549724344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goku Saiyan 2_62
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306b314527acf1348a0bceee432978c3
+      internalID: -973173231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Goku Saiyan 2_58: -554704401
+      Goku Saiyan 2_21: -1164331634
+      Goku Saiyan 2_38: -603502506
+      Goku Saiyan 2_0: 586696784
+      Goku Saiyan 2_40: -1286201171
+      Goku Saiyan 2_31: -1389746429
+      Goku Saiyan 2_57: -639433310
+      Goku Saiyan 2_13: 1634537122
+      Goku Saiyan 2_47: -1162802990
+      Goku Saiyan 2_52: 256237495
+      Goku Saiyan 2_26: -1305285077
+      Goku Saiyan 2_60: -1887454031
+      Goku Saiyan 2_7: -870845028
+      Goku Saiyan 2_14: -276345956
+      Goku Saiyan 2_59: 642412837
+      Goku Saiyan 2_62: -973173231
+      Goku Saiyan 2_41: -1777102526
+      Goku Saiyan 2_46: 1703239988
+      Goku Saiyan 2_10: -788098053
+      Goku Saiyan 2_24: -314704885
+      Goku Saiyan 2_34: -977516055
+      Goku Saiyan 2_4: -295297406
+      Goku Saiyan 2_25: 353687081
+      Goku Saiyan 2_9: -892407356
+      Goku Saiyan 2_20: 1558477688
+      Goku Saiyan 2_28: -1683643673
+      Goku Saiyan 2_8: -297117663
+      Goku Saiyan 2_39: -1557240023
+      Goku Saiyan 2_36: -1405110971
+      Goku Saiyan 2_6: 463300118
+      Goku Saiyan 2_16: 957006956
+      Goku Saiyan 2_19: -125798712
+      Goku Saiyan 2_61: 1549724344
+      Goku Saiyan 2_54: 422366685
+      Goku Saiyan 2_33: -965180227
+      Goku Saiyan 2_56: 769683201
+      Goku Saiyan 2_51: -76762793
+      Goku Saiyan 2_27: -1146739467
+      Goku Saiyan 2_3: 247720352
+      Goku Saiyan 2_23: -975478107
+      Goku Saiyan 2_42: -757313701
+      Goku Saiyan 2_45: -855591520
+      Goku Saiyan 2_2: 2034723157
+      Goku Saiyan 2_1: 715912408
+      Goku Saiyan 2_15: -947776103
+      Goku Saiyan 2_5: -918218582
+      Goku Saiyan 2_37: 1108033560
+      Goku Saiyan 2_55: -537887255
+      Goku Saiyan 2_32: -339547980
+      Goku Saiyan 2_12: 523448718
+      Goku Saiyan 2_50: 1274794563
+      Goku Saiyan 2_30: 1576728121
+      Goku Saiyan 2_35: 1515677087
+      Goku Saiyan 2_22: -354797879
+      Goku Saiyan 2_18: -193244749
+      Goku Saiyan 2_29: -1947216119
+      Goku Saiyan 2_17: -1982585652
+      Goku Saiyan 2_53: -1134327615
+      Goku Saiyan 2_43: 749121182
+      Goku Saiyan 2_11: 1539154836
+      Goku Saiyan 2_44: -25026075
+      Goku Saiyan 2_48: -657087297
+      Goku Saiyan 2_49: 737832370
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
